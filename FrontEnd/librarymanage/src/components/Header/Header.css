@@ -1,0 +1,9 @@
+.custom-button {
+    background-color: #ff5733; /* Màu nền tùy chỉnh */
+    color: white; /* Màu chữ */
+    border: none; /* Bỏ viền */
+}
+
+.custom-button:hover {
+    background-color: #c70039; /* Màu nền khi hover */
+}

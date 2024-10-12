@@ -1,0 +1,12 @@
+/* BooksPage.css */
+.modal-backdrop {
+    opacity: 0.5; /* Mờ nền khi modal mở */
+}
+
+.aciton-col{
+    width: 110px;
+}
+.custom-wt{
+    width: 100%;
+    margin-right: 20px;
+}
